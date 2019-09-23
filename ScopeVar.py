@@ -1,6 +1,6 @@
 x = 50
 def myfun():
-    #global x
+    #global x Now this x will be global
     x=22
     print(x)
     def fun():
