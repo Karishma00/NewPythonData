@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="164b1370-8878-4b6e-9287-d1f207ebacc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CircleDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassObjAttMethDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudentOOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractClassEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IneritenceEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PolyImorphismEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialMethodOOP.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScopeVar.py" beforeDir="false" afterPath="$PROJECT_DIR$/ScopeVar.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +32,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -48,8 +51,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CircleDemo">
-    <configuration name="CircleDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SpecialMethodOOP">
+    <configuration name="AbstractClassEx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CircleDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AbstractClassEx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ClassObjAttMethDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="IneritenceEx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassObjAttMethDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IneritenceEx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LambdaDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PolyImorphismEx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +106,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LambdaDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PolyImorphismEx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="StudentOOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SpecialMethodOOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudentOOP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SpecialMethodOOP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.CircleDemo" />
-        <item itemvalue="Python.ClassObjAttMethDemo" />
-        <item itemvalue="Python.StudentOOP" />
+        <item itemvalue="Python.SpecialMethodOOP" />
+        <item itemvalue="Python.AbstractClassEx" />
+        <item itemvalue="Python.PolyImorphismEx" />
+        <item itemvalue="Python.IneritenceEx" />
         <item itemvalue="Python.ScopeVar" />
-        <item itemvalue="Python.LambdaDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569239811441</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sixth commit">
+      <created>1569243547207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569243547207</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,7 +214,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -214,6 +226,7 @@
     <MESSAGE value="Third commit" />
     <MESSAGE value="forth commit" />
     <MESSAGE value="fifth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="fifth commit" />
+    <MESSAGE value="Sixth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sixth commit" />
   </component>
 </project>
