@@ -2,6 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="164b1370-8878-4b6e-9287-d1f207ebacc0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModulePro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OneSe9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PackageMain/MainPkgScript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PackageMain/PackageSub/SubPkgScript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PackageMain/PackageSub/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PackageMain/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonPackage/PythonSubPackage/my_subscript.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonPackage/some_main_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TwoSe9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProjectNew.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProjectNew.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +36,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PackageMain/PackageSub" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -32,6 +44,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PackageMain/PackageSub" />
+      <recent name="$PROJECT_DIR$/PackageMain" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -47,28 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SpecialMethodOOP">
-    <configuration name="AbstractClassEx" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonProjectNew" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AbstractClassEx.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.TwoSe9">
     <configuration name="IneritenceEx" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PolyImorphismEx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ModulePro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PolyImorphismEx.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ModulePro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ScopeVar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="OneSe9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ScopeVar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OneSe9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,13 +146,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="TwoSe9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProjectNew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TwoSe9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.SpecialMethodOOP" />
-        <item itemvalue="Python.AbstractClassEx" />
-        <item itemvalue="Python.PolyImorphismEx" />
+        <item itemvalue="Python.TwoSe9" />
+        <item itemvalue="Python.OneSe9" />
+        <item itemvalue="Python.ModulePro" />
         <item itemvalue="Python.IneritenceEx" />
-        <item itemvalue="Python.ScopeVar" />
+        <item itemvalue="Python.SpecialMethodOOP" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569302339335</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="OOP commit">
+      <created>1569306176701</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569306176701</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
