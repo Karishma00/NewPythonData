@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="164b1370-8878-4b6e-9287-d1f207ebacc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModulePro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OneSe9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PackageMain/MainPkgScript.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PackageMain/PackageSub/SubPkgScript.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PackageMain/PackageSub/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PackageMain/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPackage/PythonSubPackage/my_subscript.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPackage/some_main_scripts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TwoSe9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProjectNew.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProjectNew.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="164b1370-8878-4b6e-9287-d1f207ebacc0" name="Default Changelist" comment="OOP commit">
+      <change afterPath="$PROJECT_DIR$/ExIntAskDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExcepEx1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileExceptionDemo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wr.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +54,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TwoSe9">
-    <configuration name="IneritenceEx" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.ExcepEx1">
+    <configuration name="ExIntAskDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IneritenceEx.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExIntAskDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ModulePro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ExcepEx1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ModulePro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExcepEx1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OneSe9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ExceptionDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OneSe9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExceptionDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SpecialMethodOOP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FileExceptionDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SpecialMethodOOP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileExceptionDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ExcepEx1" />
+        <item itemvalue="Python.ExIntAskDemo" />
+        <item itemvalue="Python.FileExceptionDemo" />
+        <item itemvalue="Python.ExceptionDemo" />
         <item itemvalue="Python.TwoSe9" />
-        <item itemvalue="Python.OneSe9" />
-        <item itemvalue="Python.ModulePro" />
-        <item itemvalue="Python.IneritenceEx" />
-        <item itemvalue="Python.SpecialMethodOOP" />
       </list>
     </recent_temporary>
   </component>
