@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="164b1370-8878-4b6e-9287-d1f207ebacc0" name="Default Changelist" comment="Oredereddict">
-      <change afterPath="$PROJECT_DIR$/Advanced Topics/DateTimeDemo.py" afterDir="false" />
+    <list default="true" id="164b1370-8878-4b6e-9287-d1f207ebacc0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Advanced Topics/CharRangeDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Topics/CharacterSetDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Topics/DebuggerDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Topics/EscapeCharDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Topics/ExclusionDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Topics/FindAllDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Topics/RegularExpresion_Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Topics/RepititionSyntex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Topics/Spliting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Topics/TimeItDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced Topics/DateTimeDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Topics/DateTimeDemo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +39,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/PackageMain/PackageSub" />
       <recent name="$PROJECT_DIR$/PackageMain" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Advanced Topics" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -49,8 +61,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.DateTimeDmeo">
-    <configuration name="DateTimeDmeo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.EscapeCharDemo">
+    <configuration name="CharRangeDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonProjectNew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced Topics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Topics/CharRangeDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DateTimeDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="EualityDictDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="EscapeCharDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced Topics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EualityDictDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Topics/EscapeCharDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NamedtupleDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ExclusionDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CollectionDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced Topics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CollectionDemo/NamedtupleDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Topics/ExclusionDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="OrderedDict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RepititionSyntex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,32 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CollectionDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced Topics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CollectionDemo/OrderedDict.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="RandomGen" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonProjectNew" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RandomGen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Topics/RepititionSyntex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.DateTimeDmeo" />
-        <item itemvalue="Python.NamedtupleDemo" />
-        <item itemvalue="Python.EualityDictDemo" />
-        <item itemvalue="Python.RandomGen" />
-        <item itemvalue="Python.OrderedDict" />
+        <item itemvalue="Python.EscapeCharDemo" />
+        <item itemvalue="Python.DateTimeDemo" />
+        <item itemvalue="Python.CharRangeDemo" />
+        <item itemvalue="Python.ExclusionDemo" />
+        <item itemvalue="Python.RepititionSyntex" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569399954708</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Datetime">
+      <created>1569400018473</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569400018473</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,6 +339,18 @@
     <MESSAGE value="default dict" />
     <MESSAGE value="Oredereddict" />
     <MESSAGE value="Named tuple" />
-    <option name="LAST_COMMIT_MESSAGE" value="Named tuple" />
+    <MESSAGE value="Datetime" />
+    <option name="LAST_COMMIT_MESSAGE" value="Datetime" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced Topics/DateTimeDemo.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
