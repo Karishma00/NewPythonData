@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="164b1370-8878-4b6e-9287-d1f207ebacc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Advanced Topics/CharRangeDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Topics/CharacterSetDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Topics/DebuggerDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Topics/EscapeCharDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Topics/ExclusionDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Topics/FindAllDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Topics/RegularExpresion_Search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Topics/RepititionSyntex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Topics/Spliting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Topics/TimeItDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Topics/StringIO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedObjectDataStructure/Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdvancedObjectDataStructure/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced Topics/DateTimeDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Topics/DateTimeDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced Topics/DebuggerDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced Topics/DebuggerDemo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.EscapeCharDemo">
+  <component name="RunManager" selected="Python.Numbers">
     <configuration name="CharRangeDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,6 +97,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="DebuggerDemo" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonProjectNew" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced Topics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Topics/DebuggerDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="EscapeCharDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ExclusionDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced Topics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AdvancedObjectDataStructure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Topics/ExclusionDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AdvancedObjectDataStructure/Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RepititionSyntex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="StringIO" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Topics/RepititionSyntex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Topics/StringIO.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Numbers" />
+        <item itemvalue="Python.StringIO" />
         <item itemvalue="Python.EscapeCharDemo" />
         <item itemvalue="Python.DateTimeDemo" />
         <item itemvalue="Python.CharRangeDemo" />
-        <item itemvalue="Python.ExclusionDemo" />
-        <item itemvalue="Python.RepititionSyntex" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569400018473</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Advanced Python Module">
+      <created>1569412452432</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1569412452432</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,7 +361,8 @@
     <MESSAGE value="Oredereddict" />
     <MESSAGE value="Named tuple" />
     <MESSAGE value="Datetime" />
-    <option name="LAST_COMMIT_MESSAGE" value="Datetime" />
+    <MESSAGE value="Advanced Python Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advanced Python Module" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

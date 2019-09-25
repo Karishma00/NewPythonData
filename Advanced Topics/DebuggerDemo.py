@@ -1,14 +1,12 @@
-#Python debugger
-
 import pdb
-a=[1,2,3,4,5]
-b=10
-c=4
+x = [45,98,24]
+y = 39
+z = 78
 
-res=b+c
+res = y+z
 print(res)
 
 pdb.set_trace()
 
-res1=a+c
+res1 = y + x
 print(res1)
