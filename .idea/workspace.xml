@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="164b1370-8878-4b6e-9287-d1f207ebacc0" name="Default Changelist" comment="Oredereddict">
-      <change afterPath="$PROJECT_DIR$/Advanced Topics/DateTimeDmeo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced Topics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CollectionDemo/NamedtupleDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EualityDictDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Topics/DateTimeDemo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +62,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Topics/DateTimeDmeo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced Topics/DateTimeDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569389132168</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Named tuple">
+      <created>1569399954708</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1569399954708</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,6 +319,7 @@
     <MESSAGE value=" Collection - Counter" />
     <MESSAGE value="default dict" />
     <MESSAGE value="Oredereddict" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oredereddict" />
+    <MESSAGE value="Named tuple" />
+    <option name="LAST_COMMIT_MESSAGE" value="Named tuple" />
   </component>
 </project>
