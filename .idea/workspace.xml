@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="164b1370-8878-4b6e-9287-d1f207ebacc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Fibbonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GeneratorDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IterGnDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NextGnDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CollectionDemo/CounterDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CollectionDemo/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,8 +51,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.IterGnDemo">
-    <configuration name="DecoratorDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.CounterDemo">
+    <configuration name="CounterDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CollectionDemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DecoratorDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CollectionDemo/CounterDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CounterDemo" />
         <item itemvalue="Python.IterGnDemo" />
         <item itemvalue="Python.NextDecoDemo" />
         <item itemvalue="Python.Fibbonacci" />
         <item itemvalue="Python.GeneratorDemo" />
-        <item itemvalue="Python.DecoratorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569325941346</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Generators">
+      <created>1569329746948</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1569329746948</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,6 +289,7 @@
     <MESSAGE value="Testing Example" />
     <MESSAGE value="Testing pylint" />
     <MESSAGE value="Decorators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Decorators" />
+    <MESSAGE value="Generators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generators" />
   </component>
 </project>
