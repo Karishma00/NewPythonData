@@ -22,3 +22,12 @@ print(f'{n} is : alphbatic {n.isalpha()}')
 #endswith
 a='Abcde'
 print(f'{a} is end with e : {a.endswith("e")}')
+
+#Built in RegExpresssion
+#split
+x='Spliting the string'
+print(f'X : {x} after spliting by i :{x.split("i")}')
+
+#partiotion
+print(f'X : {x} after Partition by i :{x.partition("i")}')
+

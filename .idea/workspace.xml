@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="164b1370-8878-4b6e-9287-d1f207ebacc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AdvancedObjectDataStructure/Strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvancedObjectDataStructure/Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedObjectDataStructure/Strings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Strings" type="PythonConfigurationType" factoryName="Python">
       <module name="PythonProjectNew" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,7 +180,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Strings" />
         <item itemvalue="Python.Numbers" />
         <item itemvalue="Python.StringIO" />
         <item itemvalue="Python.EscapeCharDemo" />
@@ -332,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569416732768</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Advanced Strings">
+      <created>1569472576913</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1569472576913</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -367,7 +373,8 @@
     <MESSAGE value="Datetime" />
     <MESSAGE value="Advanced Python Module" />
     <MESSAGE value="Advanced Numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Advanced Numbers" />
+    <MESSAGE value="Advanced Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advanced Strings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
